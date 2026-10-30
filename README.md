@@ -83,8 +83,8 @@ An LLM alone doesn't know your private documents and will confidently invent ans
 
 ```bash
 # 1. Clone
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/jaydip666/Documind-Local-Rag.git
+cd Documind-Local-Rag
 
 # 2. Virtual environment
 python -m venv .venv
